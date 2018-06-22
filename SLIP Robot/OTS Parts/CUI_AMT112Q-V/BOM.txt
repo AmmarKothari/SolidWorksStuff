@@ -1,0 +1,9 @@
+3DX_CUI_Supplier:
+     CUI, Inc
+
+3DX_CUI_Description:
+     28 mm, 48 ~ 4096 PPR, Incremental, Line Driver Output, Radial Orientation, Capacitive Modular Encoder Kit
+
+3DX_CUI_Model Number:
+     AMT112Q-V
+
